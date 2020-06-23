@@ -15,9 +15,14 @@
 │   ├── file.py
 │   ├── function.py
 │   ├── hexagon.py
+│   ├── horse.py
 │   ├── loop.py
 │   ├── modu.py
 │   ├── pet.py
+│   ├── rectangle.py
+│   ├── rider.py
+│   ├── shape.py
+│   ├── square.py
 │   ├── str.py
 │   └── triangle.py
 ├── test
@@ -28,10 +33,14 @@
 │   ├── test_file.py
 │   ├── test_function.py
 │   ├── test_hexagon.py
+│   ├── test_horse.py
 │   ├── test_loop.py
 │   ├── test_modu.py
 │   ├── test_pet.py
+│   ├── test_rectangle.py
+│   ├── test_rider.py
 │   ├── test_str.py
+│   ├── test_square.py
 │   └── test_triangle.py
 ├── .gitigore
 ├── README.md
