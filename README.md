@@ -16,6 +16,7 @@
 │   ├── function.py
 │   ├── hexagon.py
 │   ├── horse.py
+│   ├── is_the_same.py
 │   ├── loop.py
 │   ├── modu.py
 │   ├── pet.py
@@ -26,7 +27,6 @@
 │   ├── str.py
 │   └── triangle.py
 ├── test
-│   ├── template.py
 │   ├── test_basic.py
 │   ├── test_circle.py
 │   ├── test_container.py
@@ -34,6 +34,7 @@
 │   ├── test_function.py
 │   ├── test_hexagon.py
 │   ├── test_horse.py
+│   ├── test_is_the_same.py
 │   ├── test_loop.py
 │   ├── test_modu.py
 │   ├── test_pet.py
