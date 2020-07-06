@@ -31,6 +31,3 @@ def show_favourite_tunes(musician, *tunes):
         musician: tunes
     }
     return tunes
-
-# Set is another tyoe if List.
-# For the details, see https://www.w3schools.com/python/python_sets.asp
