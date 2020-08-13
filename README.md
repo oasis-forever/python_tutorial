@@ -1,8 +1,13 @@
-## 1. Reference
+## 1. Environment
+
+* WSL2(Ubuntu 20.04.1 LTS)
+* Python 3.8.5
+
+## 2. Reference
 
 [独学プログラマー Python言語の基本から仕事のやり方まで](https://bookmeter.com/books/12669037)
 
-## 2. Directory Structure
+## 3. Directory Structure
 
 ```
 .
